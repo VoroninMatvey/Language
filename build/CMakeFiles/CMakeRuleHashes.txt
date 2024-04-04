@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+5287c4b99e3cccc3da5408f71cdeb9c6 lexer.cc

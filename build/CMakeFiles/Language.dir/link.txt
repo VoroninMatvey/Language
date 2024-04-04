@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Language.dir/numlex.cc.o CMakeFiles/Language.dir/lexer.cc.o -o Language 
