@@ -5,7 +5,7 @@
 
 
 %{
-    #include <numlexer.hpp>
+    #include <lexer.hpp>
 %}
 
 WS         [ \t\n\v]+

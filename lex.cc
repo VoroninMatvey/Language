@@ -3,7 +3,7 @@
 #include <stdexcept>
 #include <memory>
 #include <fstream>
-#include "numlexer.hpp"
+#include "lexer.hpp"
 
 int yyFlexLexer::yywrap() { return 1; }
 

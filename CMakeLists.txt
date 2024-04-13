@@ -4,12 +4,12 @@ project(Language)
 find_package(FLEX REQUIRED)
 
 flex_target(scanner
-  numlex.l
+  lex.l
   ${CMAKE_CURRENT_BINARY_DIR}/lexer.cc
 )
 
 add_executable(${PROJECT_NAME} 
-  numlex.cc  
+  lex.cc  
   ${FLEX_scanner_OUTPUTS}
 )
 
