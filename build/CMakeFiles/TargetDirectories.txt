@@ -1,3 +1,0 @@
-/home/matvey/Documents/Sber/Language/build/CMakeFiles/Language.dir
-/home/matvey/Documents/Sber/Language/build/CMakeFiles/edit_cache.dir
-/home/matvey/Documents/Sber/Language/build/CMakeFiles/rebuild_cache.dir
