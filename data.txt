@@ -1,0 +1,3 @@
+47890 Int64 hello /* I should be ignored */ elSe tRuE
+world 
+"dvgnjkml,"
